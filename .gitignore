@@ -1,0 +1,5 @@
+# Ignore the dataset and splits folders under data/
+data/dataset/
+data/splits/
+
+data/data.zip
